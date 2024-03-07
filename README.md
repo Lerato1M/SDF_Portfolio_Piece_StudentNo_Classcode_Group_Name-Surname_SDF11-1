@@ -1,19 +1,2 @@
-# Installation
-
-```
-# Install dependencies
-npm install
-
-# Start the development server with live preview using Browsersync
-npm run browsersync
-
-# Compile Tailwind CSS
-npm run build
-
-# Compile Tailwind CSS minified
-npm run build-minify
-
-```
-
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
+https://www.loom.com/share/c7e9405ec4e94079852cd7a01f122f83?sid=ad1c14cf-63f6-42f9-842d-06b582b19903
+https://docs.google.com/presentation/d/1mEfwdjXUbCSvjwZt6TGMAwayTkN3R1wWG8ra53z7At0/edit#slide=id.g3f7ec1d4ea_0_0
